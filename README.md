@@ -1,7 +1,8 @@
 # CS155miniproject1
 
-### TL;DR
+### TL;DR:
 An ensemble model created to tackle a machine learning challenge hosted on Kaggle as part of the Caltech CS155 course.
+
 
 
 Competition Overview:
